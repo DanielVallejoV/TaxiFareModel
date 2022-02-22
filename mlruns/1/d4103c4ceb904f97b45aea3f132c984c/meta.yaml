@@ -1,0 +1,15 @@
+artifact_uri: file:///home/danielvallejo/code/DanielVallejoV/TaxiFareModel/mlruns/1/d4103c4ceb904f97b45aea3f132c984c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d4103c4ceb904f97b45aea3f132c984c
+run_uuid: d4103c4ceb904f97b45aea3f132c984c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645540244446
+status: 1
+tags: []
+user_id: unknown
